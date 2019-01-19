@@ -1,7 +1,7 @@
 export default class A {
 
-  divide(numerator, denominator) {
-    return numerator / denominator;
+  div(numerator, denominator) {
+    return numerator / denominator / 2;
   }
 
 }
