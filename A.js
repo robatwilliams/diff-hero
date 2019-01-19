@@ -4,4 +4,8 @@ export default class A {
     return numerator / denominator;
   }
 
+  foo() {
+    // something
+  }
+
 }
